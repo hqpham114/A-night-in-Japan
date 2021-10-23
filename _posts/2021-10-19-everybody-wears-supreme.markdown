@@ -1,6 +1,6 @@
 ---
 title: Everybody wears Supreme
-date: 2021-10-19 00:12:03 Z
+date: 2021-10-19 00:12:00 Z
 categories:
 - jekyll
 - update
@@ -8,26 +8,10 @@ excerpt: One of the five supreme stores is located in omotensando in harajuku, T
   and this store is a smaller one in Tokyo comparing with the other one in Shibuya.
 ---
 
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Shinjuku is another city-within-the-city that never sleeps. Just a few stations away from Shibuya, boredom is not a possibility in this frenetic section of Tokyo.
 
-Jekyll requires blog post files to be named according to the following format:
+The nightlife here runs the gamut, from rowdy izakayas and beer bars, to red-light entertainment and the infamous (and now-defunct) Robot Restaurant, as well as Tokyo’s small but lively gay district (2-chome, *Ni-Chome*).
 
-`YEAR-MONTH-DAY-title.MARKUP`
+The Kabukicho section of Shinjuku is Tokyo’s most well known red-light district. Despite the area’s shady reputation, it can be an interesting and rewarding district to explore, and amongst the madness you can find great little bars and restaurants, as well as local music venues and more.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+![blog-1c.jpg](/uploads/blog-1c.jpg)
