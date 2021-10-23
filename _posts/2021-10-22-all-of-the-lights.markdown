@@ -17,3 +17,5 @@ In short, Tokyo is home to one of the most diverse and fascinating nightlife sce
 So to help you figure out where to begin, before you see where the night takes you, we’ve put together this introductory guide to Tokyo nightlife, featuring an overview of Tokyo’s best nightlife districts and more!
 
 Of course, with a complex and ever-changing nightlife scene, this is only a small sampling of what’s out there – and many of the best spots are firmly off the radar of most travelers (and even locals), with some venues even lacking addresses. But we hope our guide helps inspire you to venture out into the neon-filled streets, and discover for yourself what makes Tokyo’s nightlife so spectacular!
+
+![blog-2c.jpg](/uploads/blog-2c.jpg)
