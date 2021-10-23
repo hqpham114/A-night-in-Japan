@@ -16,7 +16,7 @@ body{
     font-family: $font, Arial, Helvetica, sans-serif;
     max-width: 780px;
     font-weight: 300;
-    line-height: 1.2;
+    line-height: 1.5;
     margin: 80px auto 80px auto;
 }
 
@@ -71,4 +71,17 @@ div.circle{
     height: 500px;
     border-radius: 50%;
     z-index: -2;
+}
+
+div.post{
+    h3{
+        margin-top:80px;
+    }
+    p{
+        max-width:540px;
+        margin-bottom: 40px;
+    }
+    img{
+        max-width: 780px;
+    }
 }
