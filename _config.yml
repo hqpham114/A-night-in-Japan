@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: hqpham114@gmail.com
 description: A blog about Japan
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: hqpham114
 github_username: hqpham114
 theme: minima
